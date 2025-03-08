@@ -1,0 +1,8 @@
+flask
+faster-whisper
+torch
+transformers
+selenium
+sounddevice
+wavio
+requests
